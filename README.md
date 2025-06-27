@@ -13,7 +13,7 @@ The dashboard provides a comprehensive view of:
 
 ## 🖼️ Dashboard Preview
 
-![Amazon Sales Dashboard](amazon-sales-report.png)
+![Amazon Sales Dashboard](Amazon-sales-report.png)
 
 > This interactive dashboard enables data-driven decisions by highlighting sales patterns and product performance metrics.
 
