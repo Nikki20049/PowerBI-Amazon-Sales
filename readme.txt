@@ -46,9 +46,3 @@ The dashboard provides a comprehensive view of:
 🎓 B.Tech - Artificial Intelligence & Data Science, GMRIT  
 🌐 Passionate about Web Development, Graphic Design, and Data Visualization
 
----
-
-## 📌 Note
-
-The `.pbix` file is included for demo purposes only.  
-To view and explore, open it using [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
