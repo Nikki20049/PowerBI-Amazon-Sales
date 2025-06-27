@@ -22,7 +22,7 @@ The dashboard provides a comprehensive view of:
 📁 powerbi-amazon-sales/
 ├── dashboard.pbix <- Power BI report file
 ├── README.md <- Project documentation
-└── amazon-sales-dashboard.png <- Dashboard preview image
+└── amazon-sales-report.png <- Dashboard preview image
 
 ## 🛠️ Tools Used
 
