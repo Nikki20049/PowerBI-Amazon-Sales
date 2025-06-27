@@ -13,7 +13,7 @@ The dashboard provides a comprehensive view of:
 
 ## 🖼️ Dashboard Preview
 
-![Amazon Sales Dashboard](screenshots/amazon-sales-dashboard.png)
+![Amazon Sales Dashboard](amazon-sales-report.png)
 
 > This interactive dashboard enables data-driven decisions by highlighting sales patterns and product performance metrics.
 
@@ -22,7 +22,6 @@ The dashboard provides a comprehensive view of:
 📁 powerbi-amazon-sales/
 ├── dashboard.pbix <- Power BI report file
 ├── README.md <- Project documentation
-└── screenshots/
 └── amazon-sales-dashboard.png <- Dashboard preview image
 
 ## 🛠️ Tools Used
@@ -44,7 +43,7 @@ The dashboard provides a comprehensive view of:
 
 👩‍💻 Nikitha Pothanapalli  
 🎓 B.Tech - Artificial Intelligence & Data Science, GMRIT  
-🌐 Passionate about Web Development, Graphic Design, and Data Visualization
+🌐 Passionate about Web Development, Graphic Design and AI Enthusiast
 
 ---
 
